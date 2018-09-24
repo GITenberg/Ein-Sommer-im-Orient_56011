@@ -1,0 +1,24 @@
+_repo: Ein-Sommer-im-Orient_56011
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Warsberg, freiherr von
+    gutenberg_agent_id: '48623'
+    url: http://www.gutenberg.org/2009/agents/48623
+  - agent_name: Alexander, Georgia
+    birthdate: 1868
+    gutenberg_agent_id: '4516'
+    url: http://www.gutenberg.org/2009/agents/4516
+description: ''
+gutenberg_issued: '2017-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56011'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ein Sommer im Orient
+url: http://www.gutenberg.org/ebooks/56011
